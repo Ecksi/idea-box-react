@@ -1,0 +1,37 @@
+.Card {
+  position: relative;
+  width: 60%;
+  border: 1px solid black;
+}
+
+.card__title {
+  font-size: 24px;
+}
+
+.card__delete-button {
+  background-image: url('#');
+}
+
+.card__body {
+  font-size: 18px;
+}
+
+.card__quality-container {
+  display: flex;
+}
+
+.card__quality {
+  font-size: 14px;
+}
+
+.card__quality-ranking {
+  display: inline;
+}
+
+.card__upVote {
+  background-image: url('#');
+}
+
+.card__downVote {
+  background-image: url('#');
+}

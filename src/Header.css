@@ -1,0 +1,38 @@
+.Header {
+  background-color: E5F3F2;
+}
+
+.header__h1--a {
+  color: #00A79D;
+}
+
+.header__h1--b{
+  color: #6D6E71;
+}
+
+.header__form input {
+  display: block;
+  margin: auto;
+  height: 35px;
+  width: 35%;
+  margin-bottom: 15px;
+}
+
+.header__title {
+
+}
+
+.header__body {
+
+}
+
+.header__submit {
+  background-color: #00A79D;
+  color: #FFF;
+  height: 35px;
+  width: 35%;
+}
+
+.header__submit:hover {
+  background-color: #045E55;
+}

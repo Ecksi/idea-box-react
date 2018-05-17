@@ -5,8 +5,11 @@ import './CardArea.css';
 const CardArea = () => {
   return (
     <div className="CardArea">
-      <Card />
-      <Card />
+      <form action="">
+        <input className="cardArea__search" type="text" placeholder="search" />
+      </form>
+        <Card />
+        <Card />
     </div>
   );
 };
